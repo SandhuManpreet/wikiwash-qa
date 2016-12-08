@@ -1,0 +1,7 @@
+Test application is Wikiwash
+Related test cases are:
+Verify page functionality such as all buttons, links etc.. in web and mobile applications
+Verify page functionality in different browsers (IE/Edge , FF using windows 10)
+Verify page UI Layouts
+Verify all pop up modals consistency
+Verify application performance when try to access any link from the page.
