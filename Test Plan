@@ -1,0 +1,13 @@
+Introduction: I have tested Wikiwash application with all aspect such as Functionality , UI Layout etc....
+Objectives : Deliver application with high quality or bug free according to master tets plan or BRD.
+Test Items - Wikiwash
+Features To Be Tested : Functionality, UI layouts, performance and integration.
+Features Not To Be Tested: Have not tested on diffenet devices.
+Pass/Fail Criteria: Completion criteria for the test (minimum number of defects reported around 6, % of passed tests).
+Suspension Criteria : It Specify what constitutes pausing the test.As its just a test so i stopped testing cause found reasonable number of defects in the wikiwash.
+Test Deliverables: I tried to deliver functionality, performance , layout features in cross browser environement and found same bugs in all environment.
+Environmental Needs: Any specific tools or hardware that are needed for the tests so i just used diffent browsers in windows 10.
+Responsibilities : This may include training, guiding the strategy, and identifying risks.
+Schedule :Details on when the testing will take place.
+Risks And Contingencies: The overall risk of the project as it pertains to testing. In my case i do not have all devices to test but i tried my best.
+Approvals:Sign off to proceed to next step.
